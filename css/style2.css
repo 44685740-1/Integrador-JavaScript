@@ -9,14 +9,9 @@
     height: 6rem;
 }
 
-#formulario {
-    width: 50%;
-}
-
-#totalPagar {
+#spanTotal {
+    background-color: aqua;
     height: 4rem;
     padding-top: 1rem;
-    background-color: aqua;
-    border-radius: 0.5rem;
-
+    border-radius: .5rem;
 }
